@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>NeedIt Experience Config</label>
+        <language>ja</language>
+        <name>sys_ux_app_config</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-22 01:54:13</sys_created_on>
+        <sys_id>5045ba5a8713301081ce4087cebb356d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Experience Config</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_translated_5045ba5a8713301081ce4087cebb356d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-22 01:54:13</sys_updated_on>
+        <value>NeedIt Experience Config</value>
+    </sys_translated>
+</record_update>
